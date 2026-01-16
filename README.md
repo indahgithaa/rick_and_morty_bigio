@@ -92,17 +92,7 @@ cd rick_and_morty_app
 flutter pub get
 ```
 
-3. Generate launcher icons:
-```bash
-flutter pub run flutter_launcher_icons
-```
-
-4. Generate splash screen:
-```bash
-flutter pub run flutter_native_splash:create
-```
-
-5. Run aplikasi:
+3. Run aplikasi:
 ```bash
 flutter run
 ```
@@ -117,7 +107,6 @@ flutter test
 
 Aplikasi ini menggunakan [Rick and Morty API](https://rickandmortyapi.com/):
 - Base URL: `https://rickandmortyapi.com/api`
-- Endpoints: `/character`, `/character/{id}`
 
 ## License
 
