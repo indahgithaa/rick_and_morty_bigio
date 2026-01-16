@@ -1,5 +1,5 @@
-import '../../domain/usecases/domain/entities/character.dart';
-import '../../domain/usecases/domain/repositories/character_repository.dart';
+import '../../domain/entities/character.dart';
+import '../../domain/repositories/character_repository.dart';
 import '../datasources/character_local_datasource.dart';
 import '../datasources/character_remote_datasource.dart';
 import '../models/character_model.dart';

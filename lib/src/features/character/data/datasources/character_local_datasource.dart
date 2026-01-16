@@ -1,4 +1,4 @@
-import '../../core/database/favorite_dao.dart';
+import '../../../../core/database/favorite_dao.dart';
 import '../models/character_model.dart';
 
 abstract class CharacterLocalDataSource {

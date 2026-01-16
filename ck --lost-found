@@ -1,0 +1,14 @@
+[33m2daae27[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: add README.md
+[33m1e8db86[m HEAD@{1}: commit: test(character): add unit test cases
+[33ma5c7200[m HEAD@{2}: commit: chore(assets): update app launcher icon
+[33m0de6386[m HEAD@{3}: commit: udah
+[33m6d4c0cf[m HEAD@{4}: commit: fix splash screen, ganti package name
+[33m0233e1d[m HEAD@{5}: commit: ganti foto apk
+[33m9615670[m HEAD@{6}: commit: code cleanup
+[33m5713d9a[m HEAD@{7}: commit: add test case
+[33m80e4eca[m HEAD@{8}: commit: redesign search page
+[33m6989e5c[m HEAD@{9}: commit: fix favorite
+[33m7ead1d3[m HEAD@{10}: commit: fix bug filtering
+[33m612d50d[m HEAD@{11}: commit: initialize project
+[33mb7e0e27[m HEAD@{12}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb7e0e27[m HEAD@{14}: commit (initial): first commit

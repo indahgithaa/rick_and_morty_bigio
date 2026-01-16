@@ -1,4 +1,4 @@
-import '../../domain/usecases/domain/entities/character.dart';
+import '../../domain/entities/character.dart';
 
 class CharacterModel {
   final int id;
